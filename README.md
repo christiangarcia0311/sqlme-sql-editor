@@ -20,4 +20,4 @@ A lightweight, web-based SQL editor built with Python Flask and SQLite3, designe
 
 ## Website Link
 
-[SQLMe.beta.v1](https://wilful-ethyl-cggdev-34299826.koyeb.app/)
+[SQLMe.beta.v1](https://overwhelming-dalila-cggdev-edf3adb0.koyeb.app/)
