@@ -3,6 +3,7 @@
 
 # SQLMe
 
+![logo](static/assets/logo.png)
 
 A lightweight web-based SQL IDE created with Python-Flask framework. This project offers an interactive SQL editor with syntax highlighting, an interface for viewing and querying database tables and dynamic table results and console outputs.
 
