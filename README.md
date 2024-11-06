@@ -1,10 +1,4 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/sqlme-beta.v1-%23EF5350">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/sql-editor-%23EF5350">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/python-flask-%230288D1">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%230288D1">
+<img alt="Static Badge" src="https://img.shields.io/badge/sqlme-beta.v1-%23EF5350"> <img alt="Static Badge" src="https://img.shields.io/badge/sql-editor-%23EF5350"> <img alt="Static Badge" src="https://img.shields.io/badge/python-flask-%230288D1"> <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%230288D1">
 
 
 # SQLMe
